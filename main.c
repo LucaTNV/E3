@@ -26,4 +26,4 @@ char cambiaLettera(char lettera) {
         return (char) ('a' + lettera - 'A');
     else                                        //Carattere non lettera
         return '?';
-}   //modifica per la commit
+}   //modifica per la commit 2
